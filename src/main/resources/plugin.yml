@@ -1,0 +1,13 @@
+name: FakePlayerTab
+main: net.tak7.fakeplayers.FakePlayers
+version: 1.0
+description: A plugin that modifies and creates fake players
+author: NathanD256
+prefix: FP
+commands:
+  fakeplayer:
+    aliases: fp
+    description: Main command
+    permission: cmd.fakeplayer
+    permission-message: §cYou do not have permission to do that
+    usage: /<command>

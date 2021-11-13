@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FakePlayers:jar">
+    <output-path>$PROJECT_DIR$/../../../../../../../Dev-Servers/TestingServer1.12.2/plugins/</output-path>
+    <root id="archive" name="FakePlayers.jar">
+      <element id="module-output" name="FakePlayers" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../.libraries/EverythingAPI.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

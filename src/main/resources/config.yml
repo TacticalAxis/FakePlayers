@@ -1,0 +1,11 @@
+# CONFIGURATION FILE
+# Each entry is a separate fake player
+# The format is "USERNAME;DISPLAYNAME" (display name is not required though)
+# Both username and display name supports up to 16 characters
+# Due to Minecraft's limitations, they will NOT show in the order defined
+
+tablist:
+  - "CaptainSparklez;"
+  - "Dream;&2Dream;"
+  - "GeorgeNotFound;&6GNF"
+  - "Sapnap;"
